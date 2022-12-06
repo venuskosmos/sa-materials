@@ -42,6 +42,8 @@ let myAge: Int = 34
 var dogs: Int = 2
 dogs += 1
 
+let myAge: Int = 29
+var
 /*:
 ### Challenge 2: Make it compile
  Given the following code:
